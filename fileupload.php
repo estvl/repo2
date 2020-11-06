@@ -10,7 +10,7 @@ if (isset($_POST['save'])) { // if save button on the form is clicked
     // destination of the file on the server
     $destination = 'C:\Users\Esat\Desktop\omnia_learning\file-upload-php\upload' . $filename;
 	//in.fact.you.can.concat.many.undefined.constants.with.any.func.print($filename);
-	//in.fact.you.can.concat.many.undefined.constants.with.any.func.print($filename);
+	//in.fact.you.can.concat.many.undefined.constants.with.any.fusdfsddsfnc.print($filename);
 
 
     // get the file extension
